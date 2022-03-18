@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-caching=1200
+#EXTINF:0,Brodilo.TV
+https://www.youtube.com/watch?v=7fIU2aMImMQ&ab_channel=GBNews
