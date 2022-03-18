@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTVLCOPT:http-caching=1200
 #EXTINF:0,Brodilo.TV
-https://www.youtube.com/watch?v=7fIU2aMImMQ&ab_channel=GBNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647666129/ei/cQ81YpvjBtGbgAeqp4SICw/ip/212.252.116.42/id/7fIU2aMImMQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJAH0W0wlI3Y3r-yBnLeXWH-njOudj9ozls7TOurEWAjAiEA_EWLwH0xLMSY-2GdnQARMHzAOqTpWJVBjfNhRMG3jPQ%3D/file/index.m3u8
