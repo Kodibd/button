@@ -15,9 +15,10 @@
 [Google](https://google.com" target="_blank)
 
 [link](URL){:target="_blank"}
+
 ------
 
-```javascript
+```m3u
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
