@@ -10,3 +10,6 @@
 <a href="https://google.com" target="_blank">google link</a>
 
 [<img src="https://kodibd.github.io/button/Twitter.ico" height="100">](https://google.com)
+
+
+![Latest tag](https://img.shields.io/github/tag/packagecontrol/pygments.svg) | [![pypi](https://img.shields.io/pypi/v/pygments.svg)][pypi]
