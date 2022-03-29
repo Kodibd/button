@@ -19,7 +19,7 @@
 
 
 
-![Latest tag](https://img.shields.io/github/tag/packagecontrol/pygments.svg) | [![pypi](https://img.shields.io/pypi/v/pygments.svg)][pypi]
+
 
 
 
