@@ -48,9 +48,9 @@
 
 -----
 
-<code>
+
    https://sorucevap.netgez.com/githubcom-icinde-klasor-olusturma-repo-git-kullanmadan
    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
    https://daringfireball.net/projects/markdown/syntax
    https://www.markdownguide.org/basic-syntax/
-   </code>
+
