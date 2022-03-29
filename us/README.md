@@ -15,3 +15,9 @@
 [Google](https://google.com" target="_blank)
 
 [link](URL){:target="_blank"}
+----
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
