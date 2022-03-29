@@ -16,15 +16,5 @@
 
 
 
-
-[pygments]: http://pygments.org
-[Package Control]: http://packagecontrol.io/
-[Sublime Text]: http://sublimetext.com/
-[pypi]: https://pypi.python.org/pypi/pygments
-[Bitbucket]: https://bitbucket.org/birkenfeld/pygments-main
-
-
-[![Donate via PayPal][donate-image]][donate-link]
-[![Discord][discord-image]][discord-link]
-[![Build][github-ci-image]][github-ci-link]
-![License][license-image]
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
