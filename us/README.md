@@ -5,6 +5,3 @@
   
 [Channel Streams Adress](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8)
   
-  
-
-[gooble](https://google.com)
