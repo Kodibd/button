@@ -47,9 +47,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
   
-  <a href='https://google.com' target='_blank' rel='noopener'>Google için tıklayın</a>
+  <dt><a href='https://google.com' target='_blank' rel='noopener'>Google için tıklayın</a>
 
-  [Google](https://google.com" target="_blank)
+  <dt>[Google](https://google.com" target="_blank)
 
-  [link](URL){:target="_blank"}
+  <dt>[link](URL){:target="_blank"}
 </dl>
+
+  
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
