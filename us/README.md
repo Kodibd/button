@@ -19,7 +19,7 @@
 
 
 
-[go](href="http://stackoverflow.com":target="_blank" rel="noopener"){}
+[go](<a href="http://stackoverflow.com" target="_blank" rel="noopener"></a>)
 
 
 
