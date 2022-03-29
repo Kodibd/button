@@ -10,3 +10,4 @@
 
 ----
 
+<a href='https://google.com' target='_blank'>Google için tıklayın</a>
