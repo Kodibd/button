@@ -1,7 +1,7 @@
 # USA Channel List
 
 ### 1 Redbull TV
-[Channel web adress](https://www.redbull.com/int-en/channels/best-of-red-bull-stream {:target="_blank"})
+![Channel web adress](https://www.redbull.com/int-en/channels/best-of-red-bull-stream )
   
 [Channel Streams Adress](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8)
   
@@ -13,3 +13,4 @@
 
 
 ![Latest tag](https://img.shields.io/github/tag/packagecontrol/pygments.svg) | [![pypi](https://img.shields.io/pypi/v/pygments.svg)][pypi]
+{:target="_blank"}
