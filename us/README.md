@@ -38,4 +38,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ------
 
-<a href="http://example.com/" target="_blank">example</a>
+[Channel web adress]<a href="http://example.com/" target="_blank">example</a>
