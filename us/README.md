@@ -22,3 +22,9 @@
 [Sublime Text]: http://sublimetext.com/
 [pypi]: https://pypi.python.org/pypi/pygments
 [Bitbucket]: https://bitbucket.org/birkenfeld/pygments-main
+
+
+[![Donate via PayPal][donate-image]][donate-link]
+[![Discord][discord-image]][discord-link]
+[![Build][github-ci-image]][github-ci-link]
+![License][license-image]
