@@ -11,3 +11,7 @@
 ----
 
 <a href='https://google.com' target='_blank' rel='noopener'>Google için tıklayın</a>
+
+[Google](https://google.com" target="_blank)
+
+[link](URL){:target="_blank"}
