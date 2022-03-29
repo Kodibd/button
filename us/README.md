@@ -46,4 +46,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  
+  <a href='https://google.com' target='_blank' rel='noopener'>Google için tıklayın</a>
+
+  [Google](https://google.com" target="_blank)
+
+  [link](URL){:target="_blank"}
 </dl>
