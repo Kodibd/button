@@ -23,4 +23,4 @@
 
 <a href="https://www.example.com/my great page">link</a>
 
-<a href="http://example.com/""_blank"> linkk </a>
+<a href="http://example.com/" "_blank">Linkk</a>
