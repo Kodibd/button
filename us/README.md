@@ -16,7 +16,7 @@
 
 ------
 
-```m3u8
+```m3u8?
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -38,4 +38,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ------
 
-[Channel web adress]<a href="http://example.com/" target="_blank">example</a>
+<a href="http://example.com/" target="_blank">example</a>
