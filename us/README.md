@@ -10,17 +10,3 @@
 
 ----
 
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
-
-
-[link](https://www.example.com/my%20great%20page)
-
-<a href="https://www.example.com/my great page">link</a>
-
-<a href="http://example.com/" "_blank">Linkk</a>
