@@ -13,4 +13,13 @@
 
 
 ![Latest tag](https://img.shields.io/github/tag/packagecontrol/pygments.svg) | [![pypi](https://img.shields.io/pypi/v/pygments.svg)][pypi]
+
+
 {:target="_blank"}
+
+
+[pygments]: http://pygments.org
+[Package Control]: http://packagecontrol.io/
+[Sublime Text]: http://sublimetext.com/
+[pypi]: https://pypi.python.org/pypi/pygments
+[Bitbucket]: https://bitbucket.org/birkenfeld/pygments-main
