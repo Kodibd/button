@@ -1,4 +1,6 @@
-
+<!-- Açıklama satırı -->
+/* Açıklama Satırı */
+// Açıklama satırı
 ```
    kod bloğu için Alt GR tuşuna basılıyken virgül tuşuna iki defa basınız
    test
