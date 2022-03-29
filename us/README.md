@@ -6,3 +6,5 @@
 [Channel Streams Adress](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8){:target="_blank"}
   
 <a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
+
+%md <a href="https://google.com" target="_blank">google link</a>
