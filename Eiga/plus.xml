@@ -4,7 +4,7 @@ version="1.0" language="en" xsi:schemaLocation="http://www.orca.tv/RiGHTv/7.0/EP
 RiGHTvEPG.xsd">    
   <ChannelsList>
     <channel id="your Beacon channel name">
-      <program id="3394" time="2022-04-22T01:25:00Z" duration="PT01H45M" 
+      <program id="2525" time="2022-04-22T01:25:00Z" duration="PT01H45M" 
       delete="false" pvrEnabled="false" stovEnabled="false" catchUpEnabled="false">
         <title>D-Max</title>
         <description>
