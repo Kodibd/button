@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="https://github.com/Kodibd/button/new/main/Eiga">
-   <channel id="2525">
-    <display-name>The Outfit</display-name>
-    <icon src="https://kodibd.github.io/button/click.png"/>
-  </channel>
-  <programme channel="2525" start="20220409150000 +0000" stop="20220410170000 +0000">
-    <title>The Outfit</title>
-    <desc>A news and commentary program focusing on current events and topics.</desc>
-    <category>Movies Action</category>
-  </programme>
-  </tv>
+ <RiGHTvEPG xmlns="http://www.orca.tv/RiGHTv/7.0/EPG" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+version="1.0" language="en" xsi:schemaLocation="http://www.orca.tv/RiGHTv/7.0/EPG 
+RiGHTvEPG.xsd">    
+  <ChannelsList>
+    <channel id="your Beacon channel name">
+      <program id="3394" time="2022-04-22T01:25:00Z" duration="PT01H45M" 
+      delete="false" pvrEnabled="false" stovEnabled="false" catchUpEnabled="false">
+        <title>D-Max</title>
+        <description>
+        <![CDATA[
+        Belgesel Tadında Programlar.
+        ]]>
+        </description>
+      </program>
+    </channel>
+  </ChannelsList>
+</RiGHTvEPG>
