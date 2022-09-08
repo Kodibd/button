@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=4534272,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE,tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mturk-tv-tr.png"
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
